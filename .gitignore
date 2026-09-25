@@ -1,0 +1,10 @@
+# 排除本机运行产物与敏感信息
+.workbuddy/
+logs/
+nul
+*.log
+__pycache__/
+*.pyc
+
+# 环境/history
+.env
